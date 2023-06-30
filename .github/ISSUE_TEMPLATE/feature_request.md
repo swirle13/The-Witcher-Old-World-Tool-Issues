@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for Sync
+about: Suggest an idea for The Witcher: Old World Tool
 title: '[ENHANCEMENT] '
 labels: 'enhancement'
 assignees: ''
