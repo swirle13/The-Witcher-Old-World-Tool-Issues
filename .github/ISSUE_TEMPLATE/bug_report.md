@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: "Create a report to help us improve The Witcher: Old World Tool"
-title: "[BUG] "
+title: "[BUG] <Bug Title>"
 labels: bug
-assignees: ''
+assignees: 'swirle13'
 
 ---
 
