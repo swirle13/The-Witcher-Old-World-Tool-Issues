@@ -1,9 +1,9 @@
 ---
 name: Feature Request
 about: 'Suggest an idea for The Witcher: Old World Tool'
-title: '[ENHANCEMENT] '
+title: '[ENHANCEMENT] <Enhancement Title>'
 labels: 'enhancement'
-assignees: ''
+assignees: 'swirle13'
 
 ---
 
