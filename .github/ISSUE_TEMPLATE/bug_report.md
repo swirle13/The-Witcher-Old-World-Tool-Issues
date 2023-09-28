@@ -2,7 +2,7 @@
 name: Bug Report
 about: "Create a report to help us improve The Witcher: Old World Tool"
 title: "[BUG] <Bug Title>"
-labels: bug
+labels: bug,triage
 assignees: 'swirle13'
 
 ---
